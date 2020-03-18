@@ -1,4 +1,15 @@
-# Social_Media_Comments_React
+# React - Creating a social media comments feed
+
+## Creating a comment with the authors name, the time ago posted, and content using a reusable React component
+
+![](https://github.com/BenSheridanEdwards/Social_Media_Comments_React/blob/master/Media/React-CommentDetailComponent.png)
+
+## Wrapping an approval card around each comment, again using reusable React components. 
+
+![](https://github.com/BenSheridanEdwards/Social_Media_Comments_React/blob/master/Media/React-ApprovalCardComponent.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
