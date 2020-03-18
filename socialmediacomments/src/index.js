@@ -24,7 +24,7 @@ const App = () => {
           avatar={faker.image.avatar()}
         />
       </ApprovalCard>
-    
+
       <ApprovalCard>
         <CommentDetail 
           author="Jane" 
