@@ -1,6 +1,6 @@
 # React - Creating a social media comments feed
 
-
+## Timeline of learning progress
 
 ### Creating a comment with the authors name, the time ago posted, and content using a reusable React component
 
